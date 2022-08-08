@@ -1,2 +1,6 @@
-print("helo")
-print("Hello again")
+
+def __init__(self,val=None):
+    self.left=None
+    self.right=None
+    self.val=val
+def
